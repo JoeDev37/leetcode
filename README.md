@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/JoeDev37/leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/JoeDev37/leetcode/tree/master/0067-add-binary) |
 ## String
 |  |
